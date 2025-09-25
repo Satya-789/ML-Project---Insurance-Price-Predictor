@@ -93,4 +93,4 @@ Associated scalers & preprocessing pipelines.
 
 📂 These artifacts enable a robust two-stage deployment strategy for production use.
 
-🔗 Insurance Premium Prediction App- https://ml-project---insurance-price-predictor.streamlit.app/
+🔗 Insurance Premium Prediction App:- https://ml-project---insurance-price-predictor.streamlit.app/
